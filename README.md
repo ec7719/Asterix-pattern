@@ -1,1 +1,1 @@
-# Capital-B-pattern
+#Asterix-pattern
